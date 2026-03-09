@@ -92,3 +92,5 @@ router.post('/login', async (req, res) => {
 });
 
 module.exports = router;
+
+// JWT token validation improvements
